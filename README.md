@@ -1,16 +1,13 @@
-# grocery_shop_app
+# Grocery Shop App
 
-A new Flutter project.
+## Main Features
 
-## Getting Started
+- Add or remove items from cart.
+- uses Google fonts
+- Provider for state management
 
-This project is a starting point for a Flutter application.
+### UI
+![Screenshot_1695649707](https://github.com/codexharoon/GroceryShopInFlutter/assets/104395720/67a83429-9f80-4f29-a5e5-7eb51ec94a15)
+![Screenshot_1695649712](https://github.com/codexharoon/GroceryShopInFlutter/assets/104395720/a6552c2b-5fca-45c5-a44e-bc915bef2f21)
+![Screenshot_1695649716](https://github.com/codexharoon/GroceryShopInFlutter/assets/104395720/1e050300-354b-451f-9e98-adfa9b4a6a32)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
